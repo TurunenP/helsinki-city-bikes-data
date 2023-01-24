@@ -65,6 +65,30 @@ mongoimport --uri "mongodb+srv://doadmin:3Cn2Kp4jcJ80W659@db-mongodb-nyc1-22526-
 ```
 
 
+### Run the bash script for Journey Data
+
+```bash
+
+chmod +x data_import.sh
+
+./data_import.sh
+
+```
+
+
+### Run the bash script for Station Data
+
+```bash
+
+chmod +x station_data_import.sh
+
+./station_data_import.sh
+
+```
+
+
+
+
 
 
 
